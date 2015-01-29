@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is that a Hubwub on Grubhub?
+comments: true
 ---
 
 You are not mistaken if you see me on [GrubHub](https://www.grubhub.com/)?
